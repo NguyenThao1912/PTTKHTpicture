@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T14:19:35.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.56" etag="qbHsISkZIDxpRLdCpSDr" version="13.8.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-10-29T14:20:58.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="FyaNf_jRmAD0JIgUuzEx" version="13.8.6" type="github" pages="5">
   <diagram id="yaeF6fn_bGXbSSKHA2hb" name="Ngữ Cảnh">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="898" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,10 +158,10 @@
         <mxCell id="0hQJQV8X9Xvp5JdkXZN0-10" value="Thông tin tuyển dụng" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="375" y="180" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WlJL26o6un1fk0bbOK6o-3" value="Nhân Viên Tuyển Dụng" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="WlJL26o6un1fk0bbOK6o-3" value="Nhân Viên Tuyển Dụng" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="560" y="460" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WlJL26o6un1fk0bbOK6o-4" value="" style="endArrow=classic;html=1;fontSize=11;exitX=0.01;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=middle;" edge="1" parent="1" source="WlJL26o6un1fk0bbOK6o-3" target="RnOdfEfRNjpYSLf6aUSu-2">
+        <mxCell id="WlJL26o6un1fk0bbOK6o-4" value="" style="endArrow=classic;html=1;fontSize=11;exitX=0.01;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=middle;" parent="1" source="WlJL26o6un1fk0bbOK6o-3" target="RnOdfEfRNjpYSLf6aUSu-2" edge="1">
           <mxGeometry x="0.1503" y="-30" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="340" as="sourcePoint" />
             <mxPoint x="440" y="290" as="targetPoint" />
@@ -171,7 +171,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WlJL26o6un1fk0bbOK6o-5" value="Hồ so nhân viên&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;rotation=90;" vertex="1" parent="1">
+        <mxCell id="WlJL26o6un1fk0bbOK6o-5" value="Hồ so nhân viên&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="427.5" y="447.5" width="85" height="20" as="geometry" />
         </mxCell>
       </root>
@@ -878,7 +878,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vTF1W9hzr1SLtpjVsFWV-0" value="Bảng lương nhân viên" style="endArrow=classic;html=1;fontSize=11;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="khZUdtr1TtP0e30iNi-o-1" source="G_HLHiRZJJGG-qGzHssV-12" target="G_HLHiRZJJGG-qGzHssV-13">
+        <mxCell id="vTF1W9hzr1SLtpjVsFWV-0" value="Bảng lương nhân viên" style="endArrow=classic;html=1;fontSize=11;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="khZUdtr1TtP0e30iNi-o-1" source="G_HLHiRZJJGG-qGzHssV-12" target="G_HLHiRZJJGG-qGzHssV-13" edge="1">
           <mxGeometry x="-0.0448" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="131" y="915" as="sourcePoint" />
             <mxPoint x="440" y="790" as="targetPoint" />
