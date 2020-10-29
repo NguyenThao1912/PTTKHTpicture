@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T08:01:23.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="l94tLvtiHXyvPoo8iwjp" version="13.8.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-10-29T08:06:16.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="q9D56hxfpFZK8DoaTSZU" version="13.8.6" type="github" pages="6">
   <diagram id="yaeF6fn_bGXbSSKHA2hb" name="Ngữ Cảnh">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,19 @@
         <mxCell id="GA5QV7fBeu_1t9fUXcF6-40" value="Gửi sản phẩm ,hóa đơn" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GA5QV7fBeu_1t9fUXcF6-39">
           <mxGeometry x="-0.1541" y="1" relative="1" as="geometry">
             <mxPoint x="-25" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GA5QV7fBeu_1t9fUXcF6-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.315;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RnOdfEfRNjpYSLf6aUSu-2" target="GA5QV7fBeu_1t9fUXcF6-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="160" />
+              <mxPoint x="45" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GA5QV7fBeu_1t9fUXcF6-42" value="Xác nhận đổi trả" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GA5QV7fBeu_1t9fUXcF6-41">
+          <mxGeometry x="-0.1647" y="1" relative="1" as="geometry">
+            <mxPoint x="-38" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RnOdfEfRNjpYSLf6aUSu-2" value="0. Quản Lý Cửa Hàng bán Quần áo" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
