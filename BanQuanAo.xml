@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T14:04:24.044Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="koZGKIQGuIFuYLP7Ea_e" version="13.8.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-10-29T14:05:29.236Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="f-Ew2TGCQjFZAGWlbbh_" version="13.8.6" type="github" pages="6">
   <diagram id="yaeF6fn_bGXbSSKHA2hb" name="Ngữ Cảnh">
     <mxGraphModel dx="1360" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -750,7 +750,7 @@
           <mxGeometry x="330" y="460" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4AbPn9RsHYerGEwiyshF-2" value="2.3 Thanh Toán" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="nFovwWzaxnCoe0GpZYnU-1">
-          <mxGeometry x="330" y="585" width="140" height="60" as="geometry" />
+          <mxGeometry x="330" y="580" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4AbPn9RsHYerGEwiyshF-3" value="2.4 Lưu Thông Tin bán Hàng" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="nFovwWzaxnCoe0GpZYnU-1">
           <mxGeometry x="330" y="700" width="140" height="60" as="geometry" />
