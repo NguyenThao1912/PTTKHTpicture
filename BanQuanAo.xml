@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T14:58:38.316Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="QEOqtYTTjMpd-RQcAbJi" version="13.8.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-29T14:59:02.146Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="dIJIa1iIOwhyLXM7PE7N" version="13.8.6" type="github" pages="8">
   <diagram id="yaeF6fn_bGXbSSKHA2hb" name="Ngữ Cảnh">
     <mxGraphModel dx="1360" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -957,7 +957,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Ix7O2ZOkoV3tzKNvJwx-10" value="Khách hàng" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="0Ix7O2ZOkoV3tzKNvJwx-1" vertex="1">
+        <mxCell id="0Ix7O2ZOkoV3tzKNvJwx-10" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Khách Hàng" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="0Ix7O2ZOkoV3tzKNvJwx-1" vertex="1">
           <mxGeometry x="305" y="75" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0Ix7O2ZOkoV3tzKNvJwx-12" value="Kết quả đổi trả" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="0Ix7O2ZOkoV3tzKNvJwx-1" source="0Ix7O2ZOkoV3tzKNvJwx-5" edge="1" target="0Ix7O2ZOkoV3tzKNvJwx-7">
