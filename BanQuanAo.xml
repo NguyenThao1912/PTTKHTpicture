@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T15:06:01.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.56" etag="d_V-YrsWIsOX9BJS3Xzg" version="13.8.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-29T15:07:47.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.56" etag="5SaXVDHmkiRm6rE5n81c" version="13.8.5" type="github" pages="8">
   <diagram id="yaeF6fn_bGXbSSKHA2hb" name="Ngữ Cảnh">
     <mxGraphModel dx="1038" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -928,7 +928,7 @@
         <mxCell id="Gop08yYqFWWKfzaVcm8O-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0PzmOOgnMpBnZzy_GrI7-1" source="Xg8z0C_YqSYoXZNTuNAY-0" target="Gop08yYqFWWKfzaVcm8O-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gop08yYqFWWKfzaVcm8O-0" value="Quản lý bán hàng" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="0PzmOOgnMpBnZzy_GrI7-1">
+        <mxCell id="Gop08yYqFWWKfzaVcm8O-0" value="2.0 Quản lý bán hàng" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="0PzmOOgnMpBnZzy_GrI7-1">
           <mxGeometry x="900" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
