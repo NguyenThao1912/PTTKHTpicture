@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T15:33:12.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.56" etag="M8LxDIVV43UG7V6Rx_j8" version="13.8.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-29T15:34:44.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="OrMLchCQ76ZGDN1rpNav" version="13.8.6" type="github" pages="8">
   <diagram id="yaeF6fn_bGXbSSKHA2hb" name="Ngữ Cảnh">
     <mxGraphModel dx="1038" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -968,17 +968,17 @@
         <mxCell id="eDGN8jFOByYOutDeMc-J-5" value="Người quản lý" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="0PzmOOgnMpBnZzy_GrI7-1" vertex="1">
           <mxGeometry x="190" y="160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Lj5tbALCa-46D2RHzUjG-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0PzmOOgnMpBnZzy_GrI7-1" source="Xg8z0C_YqSYoXZNTuNAY-0">
+        <mxCell id="Lj5tbALCa-46D2RHzUjG-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="0PzmOOgnMpBnZzy_GrI7-1" edge="1" target="Xg8z0C_YqSYoXZNTuNAY-0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="620" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1010" y="550" />
-              <mxPoint x="670" y="550" />
               <mxPoint x="670" y="620" />
+              <mxPoint x="670" y="550" />
+              <mxPoint x="1010" y="550" />
             </Array>
+            <mxPoint x="670" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lj5tbALCa-46D2RHzUjG-1" value="Thông tin hàng xuất" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lj5tbALCa-46D2RHzUjG-0">
+        <mxCell id="Lj5tbALCa-46D2RHzUjG-1" value="Thông tin hàng xuất" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Lj5tbALCa-46D2RHzUjG-0" vertex="1" connectable="0">
           <mxGeometry x="-0.0243" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
