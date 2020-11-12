@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T02:41:14.373Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="Rr9fQOwEYNPfO77lkCCH" version="13.8.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-11-12T06:18:08.678Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="KIMBjhsRS1KxziA7OO19" version="13.9.3" type="github" pages="8">
   <diagram id="yaeF6fn_bGXbSSKHA2hb" name="Ngữ Cảnh">
     <mxGraphModel dx="1360" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -174,7 +174,7 @@
         <mxCell id="WlJL26o6un1fk0bbOK6o-5" value="Hồ so nhân viên&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="427.5" y="447.5" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lBhHWWSIFMm4pxr3L6pr-1" value="Xác Nhận đổi trả" style="endArrow=classic;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RnOdfEfRNjpYSLf6aUSu-2" target="GA5QV7fBeu_1t9fUXcF6-1">
+        <mxCell id="lBhHWWSIFMm4pxr3L6pr-1" value="Xác Nhận đổi trả" style="endArrow=classic;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RnOdfEfRNjpYSLf6aUSu-2" target="GA5QV7fBeu_1t9fUXcF6-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="380" as="sourcePoint" />
             <mxPoint x="400" y="150" as="targetPoint" />
@@ -705,26 +705,6 @@
           <mxGeometry x="-0.1667" y="-5" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="780" as="sourcePoint" />
             <mxPoint x="440" y="730" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AHYiIrX31lKPiBOXQNu4-0" value="Sổ chấm công" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="khZUdtr1TtP0e30iNi-o-1" vertex="1">
-          <mxGeometry x="-20" y="1050" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AHYiIrX31lKPiBOXQNu4-1" value="Thông tin chấm công" style="endArrow=classic;html=1;entryX=0.2;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="khZUdtr1TtP0e30iNi-o-1" target="AHYiIrX31lKPiBOXQNu4-0" edge="1">
-          <mxGeometry x="-0.1111" width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="960" as="sourcePoint" />
-            <mxPoint x="20" y="1060" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AHYiIrX31lKPiBOXQNu4-2" value="bảng chấm công" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="khZUdtr1TtP0e30iNi-o-1" source="AHYiIrX31lKPiBOXQNu4-0" edge="1">
-          <mxGeometry x="0.2258" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="1065" as="sourcePoint" />
-            <mxPoint x="98" y="961" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="100" y="1065" />
-            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
