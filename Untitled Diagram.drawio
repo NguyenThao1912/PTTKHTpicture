@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T17:39:01.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="qLqBRfn-Yh44Qzt_I7gd" version="14.6.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-05-04T17:37:54.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="LmjB2uzFNzEbrvbI3Bmv" version="14.6.9" type="github" pages="5">
   <diagram id="dmMNkS805SkaxV6rb-UH" name="Page-1">
-    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -448,12 +448,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TCGOqxoCU85AQ9VXy26T" name="Page-4">
-    <mxGraphModel dx="1483" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="BsGRnqJpvJ0fcmCe_uuR-0" />
         <mxCell id="BsGRnqJpvJ0fcmCe_uuR-1" parent="BsGRnqJpvJ0fcmCe_uuR-0" />
         <mxCell id="1at7UpzBRyXz91HefDVE-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" parent="BsGRnqJpvJ0fcmCe_uuR-1" vertex="1">
-          <mxGeometry x="30" y="150" width="1130" height="660" as="geometry" />
+          <mxGeometry x="30" y="150" width="1130" height="640" as="geometry" />
         </mxCell>
         <mxCell id="sI4hb_eRCJ1T7MwI9SW4-0" value="Khách Hàng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontSize=15;" parent="BsGRnqJpvJ0fcmCe_uuR-1" vertex="1">
           <mxGeometry x="345" y="60" width="30" height="60" as="geometry" />
